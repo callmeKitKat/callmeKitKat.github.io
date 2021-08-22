@@ -1,7 +1,11 @@
 h1 {
-    color:blueviolet;
-    background-color:cyan;
+    color:rgb(185, 221, 230);
+    font-family: serif;
 }
-body{
-    background-color:darkkhaki;
+
+h5{
+    color:rgb(185, 221, 230)
+}
+.selected {
+    color:firebrick;
 }
