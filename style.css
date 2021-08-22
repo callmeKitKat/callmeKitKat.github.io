@@ -6,6 +6,7 @@ h1 {
 h5{
     color:rgb(185, 221, 230)
 }
-.selected {
-    color:firebrick;
+
+body {
+    background-color:rgb(238, 200, 238)
 }
