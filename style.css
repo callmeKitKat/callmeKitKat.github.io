@@ -5,6 +5,11 @@ li{
     list-style:none;
     float: right;
 }
+.header {
+    background-color:#FCD8D4
+    color:snow
+    height:90px
+}
 .header-logo{
     float: left;
     font-size:36px;
@@ -14,10 +19,10 @@ li{
     padding:20px 10px
 }
 .main{
-    background-color:beige;
+    background-color:#FDF6F0;
     height:600px;
 }
 .footer{
-    background-color:rgb(177, 177, 177)
-    
+    background-color:#F5C6AA
+    color:#F8E2CF
 }
