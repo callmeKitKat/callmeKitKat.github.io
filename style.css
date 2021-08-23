@@ -3,11 +3,15 @@ body{
 }
 li{
     list-style:none;
+    float: right;
 }
 .header-logo{
     float: left;
     font-size:36px;
     padding:20px 40px;
+}
+.logo{
+    padding:20px 10px
 }
 .main{
     background-color:beige;
@@ -15,4 +19,5 @@ li{
 }
 .footer{
     background-color:rgb(177, 177, 177)
+    
 }
