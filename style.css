@@ -1,5 +1,12 @@
 li{
     list-style:none;
     padding:20px 30px 20px 30px;
+    color:#F8E2CF
+}
+ul{
+    display:fles;
+}
+.header{
+    height:70px;
     background-color:#FCD8D4
-    }
+}
