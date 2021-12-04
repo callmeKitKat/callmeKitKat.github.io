@@ -1,6 +1,10 @@
 h1 {
-    color:#FFE8DF
+    color:#FFFFFF
 }
+
 body{
     background-color: #F0F0F0
 }
+li{
+    list-style:none;
+    }
