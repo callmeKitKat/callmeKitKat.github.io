@@ -7,4 +7,12 @@ body{
 }
 li{
     list-style:none;
+    padding:20px 30px 20px 30px;
+    }
+ ul{
+        display:flex;
+    }
+    .header{
+        background-color: #FFE8DF
+        height 70px;
     }
